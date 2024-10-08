@@ -47,4 +47,4 @@ against the others in a generalized first-price auction. In particular, consider
 [Luca Trizio](https://github.com/lucatrizio)
 
 ## Credits
-Thanks to [Think Wih Google]([https://mpost.io/glossary/game-theory/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thinkwithgoogle.com%2Fintl%2Fen-emea%2Fmarketing-strategies%2Fautomation%2Fbidding-for-value-automation%2F&psig=AOvVaw2RR7UhwSc6YvArzMFf5M-3&ust=1728465212320000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCICW_Yme_ogDFQAAAAAdAAAAABAE)) for the header image
+Thanks to [Think With Google]([https://mpost.io/glossary/game-theory/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thinkwithgoogle.com%2Fintl%2Fen-emea%2Fmarketing-strategies%2Fautomation%2Fbidding-for-value-automation%2F&psig=AOvVaw2RR7UhwSc6YvArzMFf5M-3&ust=1728465212320000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCICW_Yme_ogDFQAAAAAdAAAAABAE)) for the header image
