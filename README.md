@@ -28,7 +28,7 @@ The framework is suitable for environments where bidders participate in auctions
   - Build a pricing strategy using the discretization of the prices p 2 [0, 1] and:
     - **sliding-window**
     - **CUSUM**
-- 🟢 **Requirement 4: Compare di↵erent bidding algorithms**: The goal is to compare the performances of di↵erent algorithms.
+- 🟢 **Requirement 4: Compare different bidding algorithms**: The goal is to compare the performances of di↵erent algorithms.
 Consider the di↵erent algorithms that we have seen for bidding and let them play one
 against the others in a generalized first-price auction. In particular, consider:
   - A primal-dual algorithm for truthful auctions
